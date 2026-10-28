@@ -89,10 +89,10 @@ Opportunities
 | File | Description |
 |---|---|
 | `WEEK_2_ANALYSTLAB.pbix` | The Power BI dashboard |
-| `Dashboard export (PDF or PNG)` | Exported copy of the dashboard pages |
 | `Business Intelligence Overview Report` | What BI is, why dashboards matter, and the objective of this dataset |
-| `Executive Summary Report` | Summary of insights, risks, opportunities and recommendations |
-| `screenshots/` | Images used in this README |
+![Overview page](PAGE%201.png)
+![Sales and Profits page](PAGE%202.png)
+![Insights page](PAGE%203.png)| Summary of insights, risks, opportunities and recommendations |
 
 ## How to open the dashboard
 
